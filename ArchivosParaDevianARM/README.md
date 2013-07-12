@@ -1,0 +1,1 @@
+Estas librerias estan compiladas para arquitectura ARM, sustituir
